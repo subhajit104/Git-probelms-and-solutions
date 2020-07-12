@@ -3,4 +3,5 @@ Probelems and solution related to github : ->
 Add the user name and password to git
    1. git config --global credential.helper store.
    2. add username and passoword for the first time.
+   3. you can add permanetly your username and password
 #######################################################################################################
