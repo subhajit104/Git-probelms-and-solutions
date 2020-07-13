@@ -3,3 +3,14 @@ Git commands
 How to check the series of commits on this repository
 git log 
 #######################################################################################################
+git remote remove <remote-repository-name>
+git remote // to see all remote repository
+git 
+
+#######################################################################################################
+how to fetch all the branch from the remote location
+:-> git fetch 
+############################################################################
+How to merge two branch 
+:-> git merge <branch-name>
+
