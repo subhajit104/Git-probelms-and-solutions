@@ -13,4 +13,9 @@ how to fetch all the branch from the remote location
 ############################################################################
 How to merge two branch 
 :-> git merge <branch-name>
+############################################################################
+how to update you local repo from github global repo
+:-> git pull origin master
+
+
 
